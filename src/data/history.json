@@ -1,0 +1,28 @@
+[
+  {
+    "role": "Parul University",
+    "organisation": "Engineering",
+    "startDate": "2021",
+    "endDate": "2025",
+    "experiences": ["6.88 CGPA", "I have completed 5 semesters till date"],
+    "imageSrc": "history/pu.png"
+  },
+  {
+    "role": "Sri Chaithanya Junior college",
+    "organisation": "Intermediate",
+    "startDate": "2019",
+    "endDate": "2021",
+    "experiences": ["900 Marks"],
+    "imageSrc": "history/sr.png"
+  },
+  {
+    "role": "Sri Chaithanya Techno School",
+    "organisation": "Tenth",
+    "startDate":"past",
+    "endDate": "2018",
+    "experiences": [
+      "9.7CGPA"
+    ],
+    "imageSrc": "history/srs.png"
+  }
+]
